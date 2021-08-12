@@ -20,6 +20,9 @@ a:hover {
 
 blockquote {
     color: rgb(29, 29, 29);
+    border: #000000 1px solid;
+    margin: 5px 10px;
+    
 }
 
 #page-loading-blocs-notifaction {
