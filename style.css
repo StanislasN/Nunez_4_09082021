@@ -20,8 +20,10 @@ a:hover {
 
 blockquote {
     color: rgb(29, 29, 29);
-    border: #000000 1px solid;
-    margin: 5px 10px;
+    border: #3f3f3f 2px dotted;
+    border-radius: 20px;
+    margin: 20px 10px;
+    padding: 15px;
     
 }
 
@@ -837,7 +839,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
