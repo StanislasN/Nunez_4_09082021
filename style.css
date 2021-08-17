@@ -741,7 +741,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 h4 {
@@ -755,6 +755,12 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+}
+
+.white-background {
+    background: white;
+    border-radius: 25px;
+    padding: 20px 0;
 }
 
 .portfolio-thumb {
